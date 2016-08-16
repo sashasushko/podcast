@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "demarked": "^0.0.3",
+    "soundcloud-nodejs-api-wrapper": "^0.3.2",
     "yaspeller": "^2.8.2"
   }
 }
